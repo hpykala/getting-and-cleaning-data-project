@@ -69,6 +69,8 @@ For the purposes of the course project of Getting and Cleaning data the variable
 - BodyBody -> Body (to fix duplicate Body in certain feature names)
 - Removal of -, ( and )
 
+The resulting dataset includes 180 observations (30 subjects x 6 activity types) of 68 variables
+
 Variable | Description
 -------- | -----------
 subject | subject id, between 1 and 30
@@ -139,7 +141,6 @@ fBodyGyroMagnitudeMean |
 fBodyGyroMagnitudeStd |
 fBodyGyroJerkMagnitudeMean |
 fBodyGyroJerkMagnitudeStd |
-
 
 ## License:
 
